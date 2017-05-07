@@ -6,7 +6,7 @@ The rather buggy Oculus v1.13 driver seemed to be quite sensative to CPU usage, 
 Even though Oculus v1.14 seems to have fixed the core problem, I find using the affinity still makes for a cmoother VR experience.  So...  I wrote this script to automate it.
 
 I'm using AutoHotkey here ... because it's simple!
-I will release compiled versions as I update as well.  https://github.com/rkodey/ED-Affinity/releases
+I will release compiled versions as I update as well.  See the <a href="https://github.com/rkodey/ED-Affinity/releases">Releases</a> tab.
 
 The basic idea:
 1) The script will look and wait for the Oculus service processes to start
