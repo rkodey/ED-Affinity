@@ -1,6 +1,5 @@
 #NoEnv
 #SingleInstance force
-#include Utils.ahk
 
 SetTitleMatchMode RegEx
 DetectHiddenWindows On
