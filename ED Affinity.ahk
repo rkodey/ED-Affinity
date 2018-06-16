@@ -147,6 +147,9 @@ Mask := GetCpuMask(InitialProcess)
 
 if(Mask > 0) {
   SetDefaults(Oculus)
-  ShowGUI()
+  if 1 = start
+    Start()
+  else
+    ShowGUI()
 }
 return
