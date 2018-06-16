@@ -17,10 +17,10 @@ The basic idea:
 
 Run the scrip with no parameters to use the (crude) GUI.
 
-Or, launch with "start" to use defaults with no GUI:
-ED-Affinity.ahk start
-or
-ED-Affinity.exe start
+Or, launch with "start" to use defaults with no GUI:<br>
+<b>ED-Affinity.ahk start</b><br>
+or<br>
+<b>ED-Affinity.exe start</b><br>
 
 
 TODO:
