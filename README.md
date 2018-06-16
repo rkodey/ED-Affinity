@@ -15,9 +15,16 @@ The basic idea:
 4) Click "Ok/Start" to let it do its thing
 5) The script will remain in your Tray, waiting for ED to launch.  When it does, it will set the affinity for you.  Even on re-launch.
 
+Run the scrip with no parameters to use the (crude) GUI.
+
+Or, launch with "start" to use defaults with no GUI:
+ED-Affinity.ahk start
+or
+ED-Affinity.exe start
+
+
 TODO:
 - Allow saving of any settings you may change
-- Add command-line switch to auto-start without the GUI
 - Add control over process priority (some people say this helps too)
 - Maybe add control over core parking
 
